@@ -1,27 +1,27 @@
-﻿CS 1103 - Databases 
-Project Proposal (March-29th)
+                                                                                          ﻿CS 1103 - Databases 
+                                                                                      Project Proposal (March-29th)
 1. Group Members:
-1) Abdelrahman Abdelsadek     -         3764220
-2) Dwayne Luy                          -         3775996
-3) Darin Thomson                     -          3776723
+             1) Abdelrahman Abdelsadek            -         3764220
+             2) Dwayne Luy                        -         3775996
+             3) Darin Thomson                     -         3776723
 
 
 
 
 2. Application: 
-We have 3 ideas for now (will go ahead with one for the next submission): 
-1. Workout Splits - A database to represent a workout routine.
+        We have 3 ideas for now (will go ahead with one for the next submission): 
+              1. Workout Splits - A database to represent a workout routine.
 
 
-2. TV Shows - A database that holds information about media(creators, actors, producers, ratings, etc..).
+              2. TV Shows - A database that holds information about media(creators, actors, producers, ratings, etc..).
 
 
-3. Food - A database that would store details of different foods(origin, ingredients, availability, etc..).
+              3. Food - A database that would store details of different foods(origin, ingredients, availability, etc..).
 
 
 
 
-   3. GitHub Repository: 
+3. GitHub Repository: 
 
 
-https://github.com/RetroR1xE/CS-1103-Project-ADD-
+              https://github.com/RetroR1xE/CS-1103-Project-ADD-
