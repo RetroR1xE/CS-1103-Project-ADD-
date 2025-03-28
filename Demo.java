@@ -2,7 +2,7 @@
 *Demo Program (This section will contain the code of the project)
 *CS-1103 Project Code 
 *******************************************************************/
-public class Demo
+public class ProjectCode
 {
     public static void main(String[] args)
     {
